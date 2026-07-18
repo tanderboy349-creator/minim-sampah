@@ -1,0 +1,6 @@
+{
+  "name": "Landing Page Hidup Minim Sampah",
+  "description": "Sebuah landing page modern, clean, dan ramah lingkungan bertema pentingnya hidup minim sampah di Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
